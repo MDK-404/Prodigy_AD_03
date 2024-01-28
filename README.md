@@ -1,12 +1,11 @@
 # stopwatch_app_provider
 
-A new Flutter project.
-
+ 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my Third Task of my 1 month internship at Profigy InfoTech
 
-A few resources to get you started if this is your first Flutter project:
+ I made a stopwatch with provider statemangement in which user can start, stop, continue and reset timer
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
