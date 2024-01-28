@@ -95,7 +95,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       : ElevatedButton(
                     onPressed: null,
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.red.withOpacity(0.5),
+                     primary: Colors.yellow
                     ),
                     child: Text('Pause'),
                   ),
@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ElevatedButton(
                     onPressed: timer.resetTimer,
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.orange,
+                      primary: Colors.red,
                     ),
                     child: Text('Reset'),
                   ),
